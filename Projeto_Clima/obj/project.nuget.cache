@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "V32vi5CpUjtRvuBE2Rn3R3XODkxVbQPtGdL9p+9FyXMJ+CvFRonCpD4DAkTLHndGVYCNxLFDajm0BcdxDjBanw==",
+  "success": true,
+  "projectFilePath": "C:\\Nova pasta\\ClimaApi\\Projeto_Clima\\Projeto_Clima.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pedro\\.nuget\\packages\\system.net.http.json\\8.0.0\\system.net.http.json.8.0.0.nupkg.sha512",
+    "C:\\Users\\Pedro\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Pedro\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\Pedro\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

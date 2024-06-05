@@ -1,0 +1,40 @@
+C:\Users\Pedro\Desktop\programação\Linguagens\Linguagem C#\Solução problemas em C#\Projeto_Clima\Projeto_Clima\obj\Debug\net6.0\Projeto_Clima.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\programação\Linguagens\Linguagem C#\Solução problemas em C#\Projeto_Clima\Projeto_Clima\obj\Debug\net6.0\Projeto_Clima.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\programação\Linguagens\Linguagem C#\Solução problemas em C#\Projeto_Clima\Projeto_Clima\obj\Debug\net6.0\Projeto_Clima.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\programação\Linguagens\Linguagem C#\Solução problemas em C#\Projeto_Clima\Projeto_Clima\obj\Debug\net6.0\Projeto_Clima.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\programação\Linguagens\Linguagem C#\Solução problemas em C#\Projeto_Clima\Projeto_Clima\obj\Debug\net6.0\Projeto_Clima.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\programação\Linguagens\Linguagem C#\Solução problemas em C#\Projeto_Clima\Projeto_Clima\bin\Debug\net6.0\Projeto_Clima.exe
+C:\Users\Pedro\Desktop\programação\Linguagens\Linguagem C#\Solução problemas em C#\Projeto_Clima\Projeto_Clima\bin\Debug\net6.0\Projeto_Clima.deps.json
+C:\Users\Pedro\Desktop\programação\Linguagens\Linguagem C#\Solução problemas em C#\Projeto_Clima\Projeto_Clima\bin\Debug\net6.0\Projeto_Clima.runtimeconfig.json
+C:\Users\Pedro\Desktop\programação\Linguagens\Linguagem C#\Solução problemas em C#\Projeto_Clima\Projeto_Clima\bin\Debug\net6.0\Projeto_Clima.dll
+C:\Users\Pedro\Desktop\programação\Linguagens\Linguagem C#\Solução problemas em C#\Projeto_Clima\Projeto_Clima\bin\Debug\net6.0\Projeto_Clima.pdb
+C:\Users\Pedro\Desktop\programação\Linguagens\Linguagem C#\Solução problemas em C#\Projeto_Clima\Projeto_Clima\bin\Debug\net6.0\System.Net.Http.Json.dll
+C:\Users\Pedro\Desktop\programação\Linguagens\Linguagem C#\Solução problemas em C#\Projeto_Clima\Projeto_Clima\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Pedro\Desktop\programação\Linguagens\Linguagem C#\Solução problemas em C#\Projeto_Clima\Projeto_Clima\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Pedro\Desktop\programação\Linguagens\Linguagem C#\Solução problemas em C#\Projeto_Clima\Projeto_Clima\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Pedro\Desktop\programação\Linguagens\Linguagem C#\Solução problemas em C#\Projeto_Clima\Projeto_Clima\obj\Debug\net6.0\Projeto_Clima.csproj.CopyComplete
+C:\Users\Pedro\Desktop\programação\Linguagens\Linguagem C#\Solução problemas em C#\Projeto_Clima\Projeto_Clima\obj\Debug\net6.0\Projeto_Clima.dll
+C:\Users\Pedro\Desktop\programação\Linguagens\Linguagem C#\Solução problemas em C#\Projeto_Clima\Projeto_Clima\obj\Debug\net6.0\refint\Projeto_Clima.dll
+C:\Users\Pedro\Desktop\programação\Linguagens\Linguagem C#\Solução problemas em C#\Projeto_Clima\Projeto_Clima\obj\Debug\net6.0\Projeto_Clima.pdb
+C:\Users\Pedro\Desktop\programação\Linguagens\Linguagem C#\Solução problemas em C#\Projeto_Clima\Projeto_Clima\obj\Debug\net6.0\Projeto_Clima.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\programação\Linguagens\Linguagem C#\Solução problemas em C#\Projeto_Clima\Projeto_Clima\obj\Debug\net6.0\ref\Projeto_Clima.dll
+C:\Nova pasta\ClimaApi\Projeto_Clima\bin\Debug\net6.0\Projeto_Clima.exe
+C:\Nova pasta\ClimaApi\Projeto_Clima\bin\Debug\net6.0\Projeto_Clima.deps.json
+C:\Nova pasta\ClimaApi\Projeto_Clima\bin\Debug\net6.0\Projeto_Clima.runtimeconfig.json
+C:\Nova pasta\ClimaApi\Projeto_Clima\bin\Debug\net6.0\Projeto_Clima.dll
+C:\Nova pasta\ClimaApi\Projeto_Clima\bin\Debug\net6.0\Projeto_Clima.pdb
+C:\Nova pasta\ClimaApi\Projeto_Clima\bin\Debug\net6.0\System.Net.Http.Json.dll
+C:\Nova pasta\ClimaApi\Projeto_Clima\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Nova pasta\ClimaApi\Projeto_Clima\bin\Debug\net6.0\System.Text.Json.dll
+C:\Nova pasta\ClimaApi\Projeto_Clima\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Nova pasta\ClimaApi\Projeto_Clima\obj\Debug\net6.0\Projeto_Clima.csproj.AssemblyReference.cache
+C:\Nova pasta\ClimaApi\Projeto_Clima\obj\Debug\net6.0\Projeto_Clima.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nova pasta\ClimaApi\Projeto_Clima\obj\Debug\net6.0\Projeto_Clima.AssemblyInfoInputs.cache
+C:\Nova pasta\ClimaApi\Projeto_Clima\obj\Debug\net6.0\Projeto_Clima.AssemblyInfo.cs
+C:\Nova pasta\ClimaApi\Projeto_Clima\obj\Debug\net6.0\Projeto_Clima.csproj.CoreCompileInputs.cache
+C:\Nova pasta\ClimaApi\Projeto_Clima\obj\Debug\net6.0\Projeto_Clima.csproj.CopyComplete
+C:\Nova pasta\ClimaApi\Projeto_Clima\obj\Debug\net6.0\Projeto_Clima.dll
+C:\Nova pasta\ClimaApi\Projeto_Clima\obj\Debug\net6.0\refint\Projeto_Clima.dll
+C:\Nova pasta\ClimaApi\Projeto_Clima\obj\Debug\net6.0\Projeto_Clima.pdb
+C:\Nova pasta\ClimaApi\Projeto_Clima\obj\Debug\net6.0\Projeto_Clima.genruntimeconfig.cache
+C:\Nova pasta\ClimaApi\Projeto_Clima\obj\Debug\net6.0\ref\Projeto_Clima.dll
