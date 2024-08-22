@@ -16,7 +16,7 @@ namespace Projeto_Clima
             Console.WriteLine("Digite o nome da cidade desejada: ");
             string city = Console.ReadLine();
 
-            string apiKey = "30ebbe37065053a951393b8b7fdc55ad";
+            string apiKey = "your_apiKey";
             string url = $"http://api.openweathermap.org/data/2.5/weather?q={city}&appid={apiKey}&units=metric&lang=pt";
 
             try
